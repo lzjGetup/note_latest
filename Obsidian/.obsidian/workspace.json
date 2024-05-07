@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "e4b56f7ed074be22",
+    "type": "split",
+    "children": [
+      {
+        "id": "b436afa00c0f09ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38af9341f13d8f4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/head-first.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9a1692507a3c625",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0aa60b8f1bb10d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1788b374051504b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "368c4b436e82a246",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "874f9126bf3994e3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "1208d0e72d77d13e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5
+  },
+  "right": {
+    "id": "7836900b763f270b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a7f011b345ae752",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5903f381194d476e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "831fad125dbdaab4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git/head-first.md"
+              }
+            }
+          },
+          {
+            "id": "c9bb59b72653481d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git/head-first.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d4458c779fb23b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "git/head-first.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "1788b374051504b6",
+  "lastOpenFiles": [
+    "interview/day1.md",
+    "exam/page2.md",
+    "attachment2/Pasted image 20240507102935.png",
+    "attachment2/Pasted image 20240506213744.png",
+    "exam/page1.md",
+    "WORK2/DAY3.md",
+    "Z_Headlines/SUM.md",
+    "Z_Headlines/page3.md",
+    "WORK2/DAY6.md",
+    "Vue/work1-page2.md",
+    "Vue/page1.md",
+    "SPRING/day2.md",
+    "kafka/page1.md",
+    "Z_Headlines/page4.md",
+    "Z_library/experience.md",
+    "SpringCloud/3-Feign.md",
+    "attachment2/Pasted image 20240504180742.png",
+    "Z_Headlines/page2.md",
+    "Z_Headlines/page1.md",
+    "SpringCloud/6-ElasticSearch2.md",
+    "attachment2/Pasted image 20240504172647.png",
+    "SpringCloud/6-ElasticSearch1.md",
+    "SpringCloud/6-ElasticSearch3.md",
+    "interview/prepare/设计模式.md",
+    "interview/JAVA基础/tool1.md",
+    "interview/JAVA基础/base2.md",
+    "interview/JAVA基础/base1.md",
+    "RabbitMQ/page2.md",
+    "RabbitMQ/Queue.md",
+    "attachment2/Pasted image 20240503141831.png",
+    "attachment2/Pasted image 20240503135448.png",
+    "attachment2/Pasted image 20240501214451.png",
+    "attachment2/Pasted image 20240501214422.png",
+    "attachment/Pasted image 20231229202637.png",
+    "attachment/Pasted image 20230925152214.png",
+    "interview/JAVA基础",
+    "interview/prepare",
+    "未命名.canvas",
+    "exam",
+    "docker",
+    "jpa",
+    "kafka",
+    "MongoDB",
+    "Z_Headlines",
+    "interview",
+    "attachment2"
+  ]
+}
